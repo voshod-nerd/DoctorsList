@@ -1,0 +1,196 @@
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Interop.LCC11.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.ResolveComReference.cache
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Interop.LCC11.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\Соколов\Мои документы\Visual Studio 2008\Projects\Bdconnection\Bdconnection\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Interop.LCC11.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.ResolveComReference.cache
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Interop.LCC11.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\Шайманов\Рабочий стол\BDconnect\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.LCC11.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.VBIDE.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.LCC11.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.VBIDE.dll
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Users\Администратор\Desktop\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.LCC11.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Interop.VBIDE.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.ResolveComReference.cache
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.LCC11.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\bin\Debug\Interop.VBIDE.dll
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Самообразование\BDconnect_02\BDconnect_02\BDconnect_02\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.LCC11.dll
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.VBIDE.dll
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Users\Администратор\Desktop\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Interop.LCC11.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.LCC11.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.ResolveComReference.cache
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\Шайманов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+\\Mswinserver\documents\public\Соколов О\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\соколов\Рабочий стол\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\соколов\Мои документы\релиз\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.config
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.application
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.exe
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Врачи и сетификаты.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\bin\Debug\Excel.pdb
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form1.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form2.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Form3.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.Properties.Resources.resources
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Bdconnection.csproj.GenerateResource.Cache
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.exe.manifest
+C:\Documents and Settings\соколов\Рабочий стол\релиз_измененный\BDconnect_05\Bdconnection\Bdconnection\obj\Debug\Врачи и сетификаты.application
